@@ -1,0 +1,6 @@
+The launcher is quite simple to use.
+
+Directions:
+1. Open the KDR_Games.exe file
+2. Pick any of the abstract shapes and it will direct you to the according page or game
+3. Enjoy!
